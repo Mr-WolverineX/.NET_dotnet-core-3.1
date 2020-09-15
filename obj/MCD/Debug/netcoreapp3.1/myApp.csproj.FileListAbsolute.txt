@@ -1,0 +1,13 @@
+C:\Users\sonia\myApp\bin\MCD\Debug\netcoreapp3.1\myApp.exe
+C:\Users\sonia\myApp\bin\MCD\Debug\netcoreapp3.1\myApp.deps.json
+C:\Users\sonia\myApp\bin\MCD\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\Users\sonia\myApp\bin\MCD\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\Users\sonia\myApp\bin\MCD\Debug\netcoreapp3.1\myApp.dll
+C:\Users\sonia\myApp\bin\MCD\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\sonia\myApp\obj\MCD\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\Users\sonia\myApp\obj\MCD\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\Users\sonia\myApp\obj\MCD\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\Users\sonia\myApp\obj\MCD\Debug\netcoreapp3.1\myApp.csproj.CoreCompileInputs.cache
+C:\Users\sonia\myApp\obj\MCD\Debug\netcoreapp3.1\myApp.dll
+C:\Users\sonia\myApp\obj\MCD\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\sonia\myApp\obj\MCD\Debug\netcoreapp3.1\myApp.genruntimeconfig.cache
